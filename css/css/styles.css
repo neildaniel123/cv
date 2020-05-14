@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color:  #EAF6F6
+}
+
+h1 {
+  margin-top: 0 ;
+  font-family: 'Almendra SC', cursive;
+
+  }
+
+
+
+
+div {
+  background-color :#EAF6F6;
+  padding-top: 100px;
+}
+
+.contact-me:hover:{
+background-color: powderblue;
+}
+
+/***********************class************************/
+
+.middel-container{
+}
+
+.bottem-container{
+    background-color:powderblue;
+
+}
+
+.bottem-cloud {
+position: absolute;
+right: 300px;
+top: 50px;
+}
+
+.top-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.margin{
+  position: absolute;
+width: 100%;
+}
+/********************************************contact*/
+#contact{
+  background-color: powderblue;
+}
